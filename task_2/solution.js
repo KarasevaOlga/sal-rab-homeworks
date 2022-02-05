@@ -5,7 +5,6 @@ function calcShipping(sum, min, shipping) {
     let shippingPrice = shipping; // стоимость доставки
         shipping = 200;
 
-
     // Задание №2.1. Рассчитать доставку
     
     let shippingSum;
